@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1543735511 source:c:\users\harshita\downloads\algo\project\project_rati\lcss\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<string>
+	<sstream>
+	<ctime>
+	<cmath>
+
+1543799665 source:c:\users\harshita\downloads\algo\project\project_rati_new\lcss\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<string>
+	<sstream>
+	<ctime>
+	<cmath>
+
+1543952022 source:c:\users\harshita\downloads\algo\project\project_rati_shweta\plagiarismtool\lcss\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<string>
+	<sstream>
+	<ctime>
+	<cmath>
+
+1543952024 source:c:\users\sr080\onedrive - texas state university\5329\project_rati_shweta\project_rati_shweta\plagiarismtool\lcss\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<string>
+	<sstream>
+	<ctime>
+	<cmath>
+
